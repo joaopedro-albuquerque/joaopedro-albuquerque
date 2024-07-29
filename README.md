@@ -1,6 +1,10 @@
 # João Pedro Albuquerque
 
-Cursando Análise e Desenvolvimento de Sistemas | "Talk is cheap, show me the code" 🐛
+Desenvolvedor entusiasta, com habilidades sociais e muita criatividade. Apaixonado pelo meio tecnológico e do desenvolvimento, com um espírito revolucionário e sempre em busca de novos desafios que contribuam para sua evolução profissional.
+
+Atualmente estou estagiando na Fibrasil.
+
+Com ensino médio técnico em desenvolvimento web e no 2° semestre da minha em Analise e Desenvolvimento de Sistemas.
 ### Conecte-se comigo
 
 
